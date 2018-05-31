@@ -13,9 +13,9 @@
 Here are some result images (Left to Right: Content , Style , Result):
 
 <figure class="third">
-   <img src="./images/content/chicago.jpg" width=250>
-   <img src="./images/content/chicago.jpg" width=250>
-   <img src="./images/content/chicago.jpg" width=250>
+   <img src="./images/content/chicago.jpg" width=250 heigh=250>
+   <img src="./images/content/chicago.jpg" width=250 heigh=250>
+   <img src="./images/content/chicago.jpg" width=250 heigh=250>
 </figure>
 
 

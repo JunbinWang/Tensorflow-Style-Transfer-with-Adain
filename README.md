@@ -10,7 +10,7 @@
 
 ------
 
-Here are some result images:
+Here are some result images (Left to Right: Content , Style , Result):
 
 <div align="center">
    <img src="./images/content/brad_pitt.jpg" width=250>

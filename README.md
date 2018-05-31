@@ -13,9 +13,9 @@
 Here are some result images:
 
 <div align="center">
-   <img src="./images/content/brad_pitt.jpg" width=300>
-   <img src="./images/content/brad_pitt.jpg" width=300>
-   <img src="./images/content/brad_pitt.jpg" width=300>
+   <img src="./images/content/brad_pitt.jpg" width=250>
+   <img src="./images/content/brad_pitt.jpg" width=250>
+   <img src="./images/content/brad_pitt.jpg" width=250>
 </div>
 
 

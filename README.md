@@ -14,8 +14,14 @@ Here are some result images (Left to Right: Content , Style , Result):
 
 <div align="center">
    <img src="./images/content/brad_pitt.jpg" width=250>
-   <img src="./images/content/brad_pitt.jpg" width=250>
-   <img src="./images/content/brad_pitt.jpg" width=250>
+   <img src="./images/style/escher_sphere.jpg" width=250>
+   <img src="./output/escher_sphere_brad_pitt.jpg" width=250>
+</div>
+
+<div align="center">
+   <img src="./images/content/chicago.jpg" width=250>
+   <img src="./images/style/undie.jpg" width=250>
+   <img src="./output/udnie_chicago.jpg" width=250>
 </div>
 
 

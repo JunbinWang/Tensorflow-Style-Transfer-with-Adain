@@ -13,16 +13,23 @@
 Here are some result images (Left to Right: Content , Style , Result):
 
 <div align="center">
-   <img src="./images/content/brad_pitt.jpg" width=250 height=250>
+   <img src="./images/content/chicago.jpg" width=250 height=250>
    <img src="./images/style/escher_sphere.jpg" width=250 height=250>
-   <img src="./output/escher_sphere_brad_pitt.jpg" width=250 height=250>
+   <img src="./output/escher_sphere_chicago.jpg" width=250 height=250>
 </div>
 
 <div align="center">
-   <img src="./images/content/chicago.jpg" width=250 height=250>
-   <img src="./images/style/udnie.jpg" width=250 height=250>
-   <img src="./output/udnie_chicago.jpg" width=250 height=250>
+   <img src="./images/content/brad_pitt.jpg" width=250 height=250>
+   <img src="./images/style/woman_matisse.jpg" width=250 height=250>
+   <img src="./output/woman_matisse_brad_pitt.jpg" width=250 height=250>
 </div>
+
+<div align="center">
+   <img src="./images/content/lance.jpg" width=250 height=250>
+   <img src="./images/style/udnie.jpg" width=250 height=250>
+   <img src="./output/udnie_lance.jpg" width=250 height=250>
+</div>
+
 
 <div align="center">
    <img src="./images/content/stata.jpg" width=250 height=250>

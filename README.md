@@ -12,19 +12,11 @@
 
 Here are some result images (Left to Right: Content , Style , Result):
 
-|Contnt |Style|Output|
-|<img src="./images/content/brad_pitt.jpg" width=250>|<img src="./images/content/brad_pitt.jpg" width=250>
-|<img src="./images/content/brad_pitt.jpg" width=250>|
-
-
-
-<div align="center">
+<figure class="third">
    <img src="./images/content/chicago.jpg" width=250>
-   <img src="./images/style/udnie.jpg" width=250>
-   <img src="./output/udnie_chicago.jpg" width=250>
-</div>
+   <img src="./images/content/chicago.jpg" width=250>
+   <img src="./images/content/chicago.jpg" width=250>
+</figure>
 
-
-------
 
 Acknowledgments:

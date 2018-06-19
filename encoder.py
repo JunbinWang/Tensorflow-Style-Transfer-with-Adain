@@ -1,7 +1,4 @@
 # Encoder is fixed to the first few layers (up to relu4_1)
-# of VGG-19 (pre-trained on ImageNet)
-# This code is a modified version of Anish Athalye's vgg.py
-# https://github.com/anishathalye/neural-style/blob/master/vgg.py
 
 import numpy as np
 import tensorflow as tf

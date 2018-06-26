@@ -147,7 +147,7 @@ if __name__ == '__main__':
 
                     _content_loss, _style_loss, _loss = sess.run([content_loss, style_loss, loss],
                                                                  feed_dict={content_input: content_batch,
-                                                                            content_input: style_batch})
+                                                                            style_input: style_batch})
 
                     elapsed_time = datetime.now() - start_time
                     print('step: %d,  total loss: %.3f, elapsed time: %s' % (step, _loss,elapsed_time))
